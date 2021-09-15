@@ -93,7 +93,7 @@ there are so many welcome benefits for new users hurry up visit [JLCPCB.com](htt
 ![image](https://user-images.githubusercontent.com/19898602/123569250-9dcdf280-d7e3-11eb-9d46-eaf830e8057b.png)
 
 ![image](https://user-images.githubusercontent.com/19898602/133446509-2a569c05-1ae5-46b2-8d1f-5376202719e4.png)
-![MVI_0005_1](https://user-images.githubusercontent.com/19898602/133446581-4e1afb6b-6dd4-463f-bbd6-1a131ff2dbb4.gif)
+
 
 
 
@@ -190,5 +190,5 @@ if(R<7 & R>11 & G<21 & G>35){color = 4; // Red
 
 and upload the code connect the both servos fix all the required components load the color candy in tube and your machine is ready to short the candy of different colors.
 
-
+![MVI_0005_1](https://user-images.githubusercontent.com/19898602/133446581-4e1afb6b-6dd4-463f-bbd6-1a131ff2dbb4.gif)
 
