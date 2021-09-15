@@ -16,9 +16,11 @@ JLCPCB are the leader in PCB manufacturing they have a world class PCB productio
 
 First watch the video of Machine
 
-Step 1: Video https://youtu.be/pEQDG7iNwKY
+#  Video 
 
-Step 2: Components Required
+https://youtu.be/pEQDG7iNwKY
+
+# Components Required
 
 Arduino NANO : - http://amzn.to/2v6ICSm
 
@@ -30,7 +32,7 @@ Cardboard
 
 Color candy
 
-Step 3: Electrical Drawing
+# Electrical Drawing
 
 ![image](https://user-images.githubusercontent.com/19898602/133444131-1400f081-2b6d-428c-9369-fd59b1789cbe.png)
 
@@ -90,8 +92,18 @@ there are so many welcome benefits for new users hurry up visit [JLCPCB.com](htt
 
 ![image](https://user-images.githubusercontent.com/19898602/123569250-9dcdf280-d7e3-11eb-9d46-eaf830e8057b.png)
 
+![image](https://user-images.githubusercontent.com/19898602/133446509-2a569c05-1ae5-46b2-8d1f-5376202719e4.png)
+![MVI_0005_1](https://user-images.githubusercontent.com/19898602/133446581-4e1afb6b-6dd4-463f-bbd6-1a131ff2dbb4.gif)
 
-Step 4: Machine Assembley
+
+
+# Machine Assembley
+
+
+![image](https://user-images.githubusercontent.com/19898602/133445871-e72751af-6a25-4b12-8646-8e16727a7ee4.png)
+
+
+
 
 Download the attached PDF file for complete dimension of machine
 
@@ -101,15 +113,19 @@ carefully cut those pieces make sure are accurately cutted to avoid any malfunct
 
 Glue all the parts as shown in figure,
 
+![image](https://user-images.githubusercontent.com/19898602/133445966-da2eecf9-3fde-489e-b8fb-e1c33f04fb01.png)
+
+
+
 To make transparent feed tube i used empty cold drink bottle cut it and took a piece out of it
 
 and fold that sheet in tube like shape and secure with transparent, keep the diameter of tube according to the size of candy so they can pass through it easily at same time not also very loose..
 
-FT52AULJ5K6UKGC.pdf
+![image](https://user-images.githubusercontent.com/19898602/133446004-30b61084-a69c-4e2e-b1a5-858ba05da7fc.png)
 
-Step 5: Basics of Color Sensor TCS230,3200
+Basics of Color Sensor TCS230,3200
 
-1 / 5
+
 
 The TCS230 programmable color light-to-frequency converter combines configurable silicon photodiodes and
 
@@ -123,7 +139,10 @@ The four types (colors) of photodiodes are interdigitated to minimize the effect
 
 Step 6: Final Step (Loading Code & Sensor Data Study)
 
-1 / 2
+![image](https://user-images.githubusercontent.com/19898602/133446072-639123f7-b8c3-48bd-ae6e-eb015c9803c2.png)
+
+
+
 
 Before going further we must know what vale will sensor gives when different colors are take in fornt of the sensor
 
@@ -171,4 +190,5 @@ if(R<7 & R>11 & G<21 & G>35){color = 4; // Red
 
 and upload the code connect the both servos fix all the required components load the color candy in tube and your machine is ready to short the candy of different colors.
 
-FFHMNRHJ5K6UMDT.ino
+
+
